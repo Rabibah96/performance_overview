@@ -21,4 +21,12 @@ This project is done for Optiflow Insights to give historical overview of their 
 
 ## Product Performance: Key Insights
 
+**Executive Summary:**
+
+Optiflow Insights product performance analysis of 2440 records across 2022-2024 reveals annual gross profit at $5.5 million with China contributing 33% in the sales. Indoor, Lanscape and outdoor products contribute 32%, 33% and 36% respectively in gross profit. Optiflow Insights can benefit from optimizing top product lines and optimizing bundles for top performing countries.
+
+**Sales Trend and Growth Rate:**
+
+<img width="1000" height="450" alt="image" src="https://github.com/user-attachments/assets/401d9124-5c2d-4925-86d2-ab2b42186374">
+
  
