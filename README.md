@@ -32,11 +32,12 @@ Optiflow Insights product performance analysis of 2440 records across 2022-2024 
 - Optiflow shows seasonality with peak sales in May and November during the holiday seasons and lower sales in March, April and December.
 - The sales for the accounts that shows a targetted gross profit of 65%-70% are very low and are not giving the targeted sales of above 20%. The accounts that gives the most sales gives gross profit of average 40%.
 - This sales for the year(2024) from Jan to April has increased as compared to the same period from last year(2023), with Thailand and Philippines contributing the most as compared to last year where Portugal and Philippines contributed the most. Whereas for the year 2022, China adn Brazil were performing the best. For the quarterly trend United Kingdom and Sweden are performing the better as compared to the same period last year. 
-- Outdoor products contributing the most at with an average of 37% each year in the sales. Whereas landscape and indoor contribute 34% and 33% repectively. 
+- Outdoor products contributing the most at with an average of 37% each year in the sales. Whereas landscape and indoor contribute 34% and 33% repectively.
 
 
 
-<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/401d9124-5c2d-4925-86d2-ab2b42186374">
+<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/ae3e4ce1-4f21-4f27-9b06-01186721f2ac">
+
 
 ## Recommendations
 **Maximizing Product Offerings** 
