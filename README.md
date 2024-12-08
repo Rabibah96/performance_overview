@@ -5,6 +5,7 @@ This project is done for Optiflow Insights to give historical overview of their 
 ## Objectives
 - **Product Performance Analysis:** To see how different products perform in terms of sales, quantity sold and gross profit.
 - **Growth Insight:** To uncover trends and opportunities for business growth by analyzing key performance indicators across different regions and periods
+- **Seasonality insights:** It uncovers the recurring patterns over different time frames(e.g., weeks, months, quarters) such as seasonal peaks and dips in sales performance.
 
 ## Data Model
   
@@ -23,10 +24,20 @@ This project is done for Optiflow Insights to give historical overview of their 
 
 **Executive Summary:**
 
-Optiflow Insights product performance analysis of 2440 records across 2022-2024 reveals annual gross profit at $5.5 million with China contributing 33% in the sales. Indoor, Lanscape and outdoor products contribute 32%, 33% and 36% respectively in gross profit. Optiflow Insights can benefit from optimizing top product lines and optimizing bundles for top performing countries.
+Optiflow Insights product performance analysis of 2440 records across 2022-2024 reveals annual gross profit at $5.5 million with China contributing 33% in the sales. Indoor, Lanscape and outdoor products contribute 32%, 33% and 36% respectively in gross profit. This dynamic performance dashboard shows that Optiflow Insights can benefit from optimizing top product lines and optimizing bundles for top performing countries.
 
 **Sales Trend and Growth Rate:**
+- Optiflow averages 13 millions in sales with 550,000 in quantity ordered per year. This year's(2023-2024) sales show a drop of 3.08% as compared to previous year(2022-2023).
+- Optiflow shows seasonality with peak sales in May and November and lower sales in March, April and December.
+- The sales for the accounts that shows a targetted gross profit of 65%-70% are very low and are not giving the targeted sales of above 20%. The accounts that gives the most sales gives gross profit of average 40%.
+- This sales for the year(2024) from Jan to April has increased as compared to the same period from last year(2023), with Thailand and Philippines contributing the most as compared to last year where Portugal and Philippines contributed the most.
+- Outdoor products contributing the most at with an average of 37% each year in the sales.
 
-<img width="1000" height="450" alt="image" src="https://github.com/user-attachments/assets/401d9124-5c2d-4925-86d2-ab2b42186374">
+
+
+
+<img width="1000" height="435" alt="image" src="https://github.com/user-attachments/assets/401d9124-5c2d-4925-86d2-ab2b42186374">
+
+
 
  
