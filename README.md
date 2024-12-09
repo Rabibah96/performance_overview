@@ -1,4 +1,4 @@
-# Performance Overview of Optiflow Insights.
+# Sales Performance Overview of Optiflow Insights.
 ## Project Overview
 This project is done for Optiflow (made up organization) Insights to give historical overview of their key performance indicators; Sales, Quantity sold and Gross profit for the period of Jan 2022-April 2024. The dashboard shows how the company has performed and what are the goals that has been achieved what are the targets that the company should work towards. The ultimate goal is to harness these insights to drive strategic decisions about Optiflow's performance optimization. This analysis is for the product team to check market trend in different regions and get insights into the seasonal perfromance of KPIs.
 
